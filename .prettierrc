@@ -1,0 +1,7 @@
+
+// 当eslint和格式化起冲突的时候，可以添加下面代码，但是我把eslint包删了，所以没有冲突
+// {
+//     "semi": false,
+//         "singleQuote": true
+
+// }
